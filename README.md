@@ -630,11 +630,9 @@ Add screenshots of the application here.
 Example:
 
 ```markdown
-![Home Page](assets/screenshots/home.png)
+![Home Page](https://github.com/shivakrishnavutukuri04/search_Engine_movies_finder/blob/0ad643367e5a570349a589f6c6ca9d2a13e96f83/Screenshot%202026-09-08%20125506.png)
 
-![Search Results](assets/screenshots/search.png)
-
-![Recommendations](search_Engine_movies_finder/Screenshot 2026-09-08 125600.png)
+![Recommendations](https://github.com/shivakrishnavutukuri04/search_Engine_movies_finder/blob/0ad643367e5a570349a589f6c6ca9d2a13e96f83/Screenshot%202026-09-08%20125600.png)
 ```
 
 Screenshots are worth adding because they immediately show people what you actually built.
