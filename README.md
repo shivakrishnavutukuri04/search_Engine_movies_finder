@@ -634,7 +634,7 @@ Example:
 
 ![Search Results](assets/screenshots/search.png)
 
-![Recommendations](assets/screenshots/recommendations.png)
+![Recommendations](Screenshot 2026-09-08 125600.png)
 ```
 
 Screenshots are worth adding because they immediately show people what you actually built.
